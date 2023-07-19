@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">APEP-2223-group-3</string>
+
+    <!-- LoginActivity -->
+    <string name="login_tv_title">Login</string>
+    <string name="login_tv_username_label">Gebruikersnaam</string>
+    <string name="login_tv_password_label">Wachtwoord</string>
+    <string name="login_tv_password_label_repeat">Wachtwoord (herhalen)</string>
+    <string name="login_btn_register">Registreren</string>
+
+    <string name="register_tv_title">Registeren</string>
+    <string name="register_btn_back">Terug naar login</string>
+
+
+    <string name="app_name3">Clean buddyproject</string>
+
+    //overview activity strings
+    <string name="overview_newtask_btn_text">Nieuwe Taak aanmaken</string>
+    <string name="overview_overview_btn_text">cancel</string>
+    <string name="overview_title_tv_text">Overzicht taken</string>
+    <string name="overview_new_room_btn">Overzicht kamers</string>
+    <string name="overview_task_detail_btn">Ga naar detail</string>
+
+
+    //NewTask activity strings
+    <string name="newtask_title_tv_text">Nieuwe Schoonmaaktaak</string>
+    <string name="newtask_name_et_hint">Name</string>
+    <string name="newtask_description_et_hint">description</string>
+    <string name="overview_save_btn_text">Save</string>
+    <string name="overview_cancel_btn_text">Cancel</string>
+
+
+    <string name="newtask_kamer_et_hint">Kamer</string>
+    <string name="newtask_gebruiker_et_hint">Gebruiker</string>
+
+
+    <string name="app_name2">Clean buddyproject</string>
+
+    <string name="newkamer_name_et_hint">Name</string>
+
+    <string name="newkamer_description_et_hint">Description</string>
+    <string name="newkamer_cancel_btn_text">Cancel</string>
+    <string name="newkamer_save_btn_text">Save</string>
+    <string name="newtask_kamers_spnr_text"></string>
+    <string name="newtask_interval_et_hint">Interval</string>
+    <string name="newtask_interval_radio_btn_text">Dagelijks</string>
+    <string name="newtask_interval_radio2_btn_text">Weekelijks</string>
+    <string name="newtask_interval_radio_custom_btn_text">Custom</string>
+    <string name="newtask_user_spnr_id"></string>
+
+
+    <string name="room_overview_tv_title">Kamer overzicht</string>
+    <string name="room_overview_btn_details">Details</string>
+    <string name="room_overview_btn_create">Nieuwe kamer aanmaken</string>
+    <string name="room_overview_tv_rooms">Overzicht kamers</string>
+
+    <string name="room_creation_tv_title">Nieuwe kamer aanmaken</string>
+    <string name="room_creation_tv_room_name">Kamer naam</string>
+    <string name="room_creation_btn_cancel">Terug naar overzicht</string>
+    <string name="room_creation_btn_save">Opslaan</string>
+
+    <string name="show_row_room_creation_btn_plus">+</string>
+
+
+    <string name="overview_newroom_btn_text">New room</string>
+
+
+    <string name="task_detail_title">Naam van de taak</string>
+    <string name="task_detail_description">Beschrijving van de taak</string>
+    <string name="task_detail_user">Gebruiker gekoppeld aan de taak</string>
+    <string name="task_detail_room">Kamer gekoppeld aan de taak</string>
+
+
+    <string name="tash_history_row_title">Datum waarop afgrond: </string>
+</resources>
